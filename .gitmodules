@@ -1,0 +1,6 @@
+[submodule "vue-typingapp"]
+	path = vue-typingapp
+	url = https://github.com/jvimal18/vue-typingapp
+[submodule "flames"]
+	path = flames
+	url = https://github.com/jvimal18/flames.git
